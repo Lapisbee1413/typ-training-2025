@@ -52,4 +52,4 @@
 ---
 
 # Phần 4: Thực hành tạo trang giới thiệu cá nhân
-   - Chi tiết tại [MyProfile.html]()
+   - Chi tiết tại [MyProfile.html](Lamdh_b23dckh069_training_gd1/week1/Frontend_web/MyProfile.html)

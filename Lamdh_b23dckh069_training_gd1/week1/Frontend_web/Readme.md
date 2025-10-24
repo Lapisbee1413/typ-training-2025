@@ -25,7 +25,7 @@
 ---
 
 # Phần 2: Các thẻ HTML phổ biến
----
+
 2. Văn bản
    - h1 -> h6, p, span, div
 3. Liên kết & hình ảnh
@@ -40,7 +40,7 @@
 ---
 
 # Phần 3: Semantic HTML
----
+
 7. Hiểu và sử dụng các thẻ semantic
    - header: Phần đầu trang hoặc phần mở đầu nội dung.
    - nav: Khu vực điều hướng, menu liên kết.

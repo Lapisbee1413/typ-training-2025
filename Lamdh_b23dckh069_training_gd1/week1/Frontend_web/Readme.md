@@ -1,5 +1,4 @@
 # Phần 1: Cấu trúc cơ bản của trang HTML
----
 
 1. Hiểu cấu trúc chuẩn của trang HTML
 

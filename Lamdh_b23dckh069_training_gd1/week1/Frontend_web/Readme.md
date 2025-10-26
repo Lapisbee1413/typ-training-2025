@@ -28,15 +28,58 @@
 
 2. Văn bản
    - h1 -> h6, p, span, div
+```
+<!-- Tạo tiêu đề theo cấp độ 1 đến 6 -->
+    <h1></h1>
+    <h2></h2>
+    <h3></h3>
+
+    <!-- Tạo văn bản -->
+    <p></p>
+
+    <!-- Nhóm nội dung, bố cục -->
+    <span></span>
+    <div></div>
+```
 3. Liên kết & hình ảnh
    - a, img
+```
+    <a href="abc.xyz">Hình ảnh</a>
+    <img src="abc.xyz" alt="Hình ảnh">
+```
 4. Danh sách
    - ul, ol, li
+```
+    <ul>
+        <li>a</li>
+        <li>b</li>
+        <li>c</li>
+    </ul>
+    <ol>
+        <li>x</li>
+        <li>y</li>
+    </ol>
+```
 5. Bảng
    - table, tr, td
+```
+    <table>
+        <thead>
+            <tr>
+                <td></td>
+            </tr>
+        </thead>
+    </table>
+```
 6. Biểu mẫu (Form)
    - input, label, button, select, textarea
+```
+<label for="name">Nội dung: </label>
+    <input type="text" id="name" class="name">
 
+    <label for="textarea">Nội dung: </label>
+    <textarea name="textarea" id="textarea"></textarea>
+```
 ---
 
 # Phần 3: Semantic HTML

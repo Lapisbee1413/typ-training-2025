@@ -18,6 +18,6 @@
 - Tính trừu tượng: Chỉ thể hiện đặc điểm chính, ẩn chi tiết cài đặt
 
 ---
-Phần 4: Dependency Injection(DI), Inversion of Control(Ioc)
+# Phần 4: Dependency Injection(DI), Inversion of Control(Ioc)
 * Khái niệm:
   - IoC/DI: Cách quản lý, cấp phát và liên kết đối tượng tự động

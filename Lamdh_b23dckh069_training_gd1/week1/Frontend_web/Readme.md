@@ -34,10 +34,10 @@
     <h2></h2>
     <h3></h3>
 
-    <!-- Tạo văn bản -->
+ <!-- Tạo văn bản -->
     <p></p>
 
-    <!-- Nhóm nội dung, bố cục -->
+<!-- Nhóm nội dung, bố cục -->
     <span></span>
     <div></div>
 ```
@@ -74,7 +74,7 @@
 6. Biểu mẫu (Form)
    - input, label, button, select, textarea
 ```
-<label for="name">Nội dung: </label>
+    <label for="name">Nội dung: </label>
     <input type="text" id="name" class="name">
 
     <label for="textarea">Nội dung: </label>

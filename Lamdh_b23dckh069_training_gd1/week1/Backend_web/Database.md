@@ -4,7 +4,7 @@
 
 # Phần 2: Các câu lệnh cơ bản với SQL
 
-1. Tạo bài toán Quản Lý Sinh Viên với các bảng Khoa, Sinh Viên, Điểm:
+1. Tạo bài toán Quản Lý Sinh Viên với các bảng Khoa, Sinh Viên, Điểm (Create database, Create table):
 ```
 Create database qlsinhvien;
 
@@ -26,7 +26,7 @@ Create table qlsinhvien.Diem(
     primary key (MSV, MonHoc)
 )
 ```
-2. Thao tác dữ liệu
+2. Thao tác dữ liệu (Insert into, Select, Update, Delete)
 ```
 -- Thêm dữ liệu
 Use qlsinhvien;

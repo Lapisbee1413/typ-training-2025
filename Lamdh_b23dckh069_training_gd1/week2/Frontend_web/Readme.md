@@ -68,8 +68,56 @@
    </body>
    </html>
    ```
-5. Background & Colors
+4. Background & Colors
+   ```html
+   <!DOCTYPE html>
+   <html lang="en">
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Document</title>
+      <style>
+         body{
+            background-color: gray;
+            background-image: url(/Background.png);
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-attachment: fixed;
+         }
+      </style>
+   </head>
+   <body>
+      
+   </body>
+   </html>
+   ```
 6. Box Model
+   ```html
+   <!DOCTYPE html>
+   <html lang="en">
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Document</title>
+      <style>
+          #p1{
+            width: 200px;
+            height: 100px;
+            padding: 25px 25px;
+            border: 3px solid red;
+            margin: 25px auto;
+            border-radius: 5px;
+            box-sizing: content-box;
+            text-align: center;
+          }
+      </style>
+   </head>
+   <body>
+      <div id="p1">Welcome to my world!</div>
+   </body>
+   </html>
+   ```
 
 ---
 

@@ -13,6 +13,7 @@
       - Migration: Tự động tạo hoặc cập nhật bảng, theo dõi phiên bản của database
       - Config: Chứa các class cấu hình ứng dụng
       - Resources: Lưu cấu hình, tài nguyên của ứng dụng
+   
    c. File cấu hình - Application.properties
       - Giúp quản lý cấu hình của ứng dụng:
          * Kết nối database

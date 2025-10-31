@@ -1,7 +1,7 @@
 # Phần 1: Framework & Xây dựng RESTful API
 
 1. Chọn java - Spring Boot
-2. Tạo Project & cấu trúc
+2. Tạo Project & cấu trúc:
    a. Khởi tạo project bằng trang web: [Spring Initializr](https://start.spring.io)
    b. Tìm hiểu cấu trúc thư mục:
       - Controller: Xử lí request từ client, gọi service và trả response.

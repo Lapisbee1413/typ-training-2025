@@ -21,8 +21,10 @@
          * Điều chỉnh hành vi của Spring Boot không cần thay đổi code
 
 4. Xây dựng RESTful API cơ bản
+
    a. Rest API
       - Rest API là một cách thiết kế giao tiếp giữa Client và Server thông qua giao thức HTTP
+   
    b. HTTP Method
       - Phương thức HTTP là hành động mà Client yêu cầu Server thực hiện trên một tài nguyên nào đó
       - Bao gồm:

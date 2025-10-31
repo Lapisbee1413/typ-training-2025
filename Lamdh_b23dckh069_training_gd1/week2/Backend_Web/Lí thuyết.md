@@ -2,7 +2,9 @@
 
 1. Chọn java - Spring Boot
 2. Tạo Project & cấu trúc:
+
    a. Khởi tạo project bằng trang web: [Spring Initializr](https://start.spring.io)
+   
    b. Tìm hiểu cấu trúc thư mục:
       - Controller: Xử lí request từ client, gọi service và trả response.
       - Models: Chứa các class entity và ánh xạ tới bảng database.
@@ -17,7 +19,7 @@
          * Điều chỉnh cổng server, security,...
          * Điều chỉnh hành vi của Spring Boot không cần thay đổi code
 
-3. Xây dựng RESTful API cơ bản
+4. Xây dựng RESTful API cơ bản
    a. Rest API
       - Rest API là một cách thiết kế giao tiếp giữa Client và Server thông qua giao thức HTTP
    b. HTTP Method
